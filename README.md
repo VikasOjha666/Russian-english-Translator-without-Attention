@@ -11,4 +11,4 @@
 
 Run `python Training.py` to train the model after extracting data.rar and copying data.txt to root directory.
 
-Run `python Testing.py` to test the model.
+Run `python Testing.py` to test the model after it has been trained.
